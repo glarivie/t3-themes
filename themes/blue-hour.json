@@ -63,5 +63,9 @@
     "terminalSelection": "#67788f40",
     "terminalScrollbar": "#2d363f",
     "terminalScrollbarHover": "#38424d"
+  },
+  "collection": {
+    "id": "nectar",
+    "label": "Nectar"
   }
 }
